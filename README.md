@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import slastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-slast-index-of@esm/index.mjs';
+import slastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-slast-index-of@v0.1.0-esm/index.mjs';
 ```
 
 #### slastIndexOf( N, searchElement, x, strideX )
@@ -172,7 +172,7 @@ var idx = slastIndexOf.ndarray( 3, 3.0, x, 1, x.length-3 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import slastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-slast-index-of@esm/index.mjs';
+import slastIndexOf from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-slast-index-of@v0.1.0-esm/index.mjs';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float32'
