@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-09)
+## Unreleased (2026-03-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`5fa6e8c`](https://github.com/stdlib-js/stdlib/commit/5fa6e8cc15bfdc07d39385d8fa2a28006086ec98) - **bench:** refactor to use string interpolation in `blas/ext/base/slast-index-of` [(#10989)](https://github.com/stdlib-js/stdlib/pull/10989) _(by Partha Das)_
 -   [`789b5e2`](https://github.com/stdlib-js/stdlib/commit/789b5e2aa6129b72bd4d7304ad29be9ff37faeaf) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/slast-index-of` [(#10767)](https://github.com/stdlib-js/stdlib/pull/10767) _(by Prajjwal Bajpai)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Partha Das
 -   Prajjwal Bajpai
 
 </section>
