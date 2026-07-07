@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-06)
+## Unreleased (2026-07-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9c31305`](https://github.com/stdlib-js/stdlib/commit/9c31305739ee5411d758efbe4ac7de92ae3e939b) - **test:** fix grammar in test descriptions _(by Athan Reines)_
 -   [`ba80db9`](https://github.com/stdlib-js/stdlib/commit/ba80db9cd997b50a0d629cf8b770aad5bbeaa928) - **refactor:** avoid unnecessary assignment [(#13328)](https://github.com/stdlib-js/stdlib/pull/13328) _(by Philipp Burckhardt)_
 -   [`5c56631`](https://github.com/stdlib-js/stdlib/commit/5c56631cd8e1d0ab496c17d05ccd6ae351c7f0ec) - **test:** fix mismatched test filenames [(#12991)](https://github.com/stdlib-js/stdlib/pull/12991) _(by Philipp Burckhardt)_
 -   [`005bc76`](https://github.com/stdlib-js/stdlib/commit/005bc7603d9898b0fd9a9d3f13e0666645711af5) - **bench:** fix benchmark name _(by Athan Reines)_
