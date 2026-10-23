@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-06)
+## Unreleased (2026-10-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`547176e`](https://github.com/stdlib-js/stdlib/commit/547176ec139fa4257ee56a3be0597255049fbc12) - **test:** fix grammar in test descriptions _(by Athan Reines)_
 -   [`9c31305`](https://github.com/stdlib-js/stdlib/commit/9c31305739ee5411d758efbe4ac7de92ae3e939b) - **test:** fix grammar in test descriptions _(by Athan Reines)_
 -   [`ba80db9`](https://github.com/stdlib-js/stdlib/commit/ba80db9cd997b50a0d629cf8b770aad5bbeaa928) - **refactor:** avoid unnecessary assignment [(#13328)](https://github.com/stdlib-js/stdlib/pull/13328) _(by Philipp Burckhardt)_
@@ -30,9 +31,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Muhammad Haris
 -   Partha Das
 -   Philipp Burckhardt
 -   Prajjwal Bajpai
